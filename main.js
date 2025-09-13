@@ -11,7 +11,7 @@ const clientOptions = {
     auth: {},
     debug: console.log,
     xmppDebug: true,
-    platform: 'MOBILE',
+    platform: 'Android',
     partyConfig: {
       chatEnabled: true,
       maxSize: 4
